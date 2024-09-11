@@ -1,0 +1,9 @@
+## Interface: 110000
+## Title: Dystinct Locations
+## Author: None
+## Version: 1.0
+## Notes: Records subzone locations change events and experience gains to aggregate discovery coordinates.
+## SavedVariables: DystinctLocationsData
+
+# Core file
+DystinctLocations.lua
